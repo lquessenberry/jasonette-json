@@ -18,7 +18,7 @@
         }
       },
       "style": {
-        "background": "#2A2D2A",
+        "background": "https://raw.githubusercontent.com/lquessenberry/jasonette-json/master/bg.svg",
         "border": "none"
       },
       "sections": [
