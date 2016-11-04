@@ -1,0 +1,6 @@
+<svg viewBox="0 0 1200 740" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+    <path fill="#cb392a" d="M0 0h600v740H0z"/>
+    <path fill="#b53325" d="M600 0h600v740H600z"/>
+    <path d="M600 370l217.485 370h-434.97L600 370z" fill="#b53325"/>
+    <path d="M600 370L382.515 0h434.97L600 370z" fill="#cb392a"/>
+</svg>
