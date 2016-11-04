@@ -14,11 +14,11 @@
     "body": {
       "header": {
         "style": {
-            "background": "http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/cork-wallet.png"
+            "background": "#2A2D2A"
         }
       },
       "style": {
-        "background": "http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/cork-wallet.png",
+        "background": "#2A2D2A",
         "border": "none"
       },
       "sections": [
@@ -43,12 +43,13 @@
                 },
                 {
                   "type": "label",
-                  "text": "This is a demo app. You can make your own app by changing the url inside settings.plist",
+                  "text": "Michael Quessenberry is a Queer.",
                   "style": {
                     "align": "center",
-                    "font": "Courier",
-                    "padding": "30",
-                    "size": "14"
+                    "font": "Avenir",
+                    "size": "30",
+                    "color": "#88A788",
+                    "padding": "10"
                   }
                 },
                 {
